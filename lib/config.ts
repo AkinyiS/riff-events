@@ -2,6 +2,7 @@ export const SITE_CONFIG = {
   name: "Riff Events and Catering",
   fullName: "Riff Events and Catering",
   tagline: "Premium catering and event services in Nairobi, Kenya.",
+  url: "https://riffeventsandcatering.site",
   whatsappNumber: "254758191196",
   phoneDisplay: "0758 191 196",
   email: "info@riffevents.co.ke",
